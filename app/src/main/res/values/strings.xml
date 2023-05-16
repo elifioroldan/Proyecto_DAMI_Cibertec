@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Proyecto_DAMI</string>
+    <string name="user_name">Ingrese el nombre del usuario </string>
+    <string name="pass_name">Ingrese la contraseña del usuario </string>
+    <string name="image_desc">Descripción de la imagen</string>
+
+</resources>
